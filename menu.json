@@ -1,0 +1,51 @@
+{
+    "menu": [{
+            "kategori": "BREAKFAST",
+            "name": "BBQ BENTO",
+            "harga": "45000",
+            "gambar": "bbq-bento.png"
+        },
+        {
+            "kategori": "BREAKFAST",
+            "name": "BLACKPEPPER BENTO",
+            "harga": "55000",
+            "gambar": "blackpepper-bento.png"
+        },
+        {
+            "kategori": "BURGER",
+            "name": "BURGER",
+            "harga": "30000",
+            "gambar": "burger.png"
+        },
+        {
+            "kategori": "BREAKFAST",
+            "name": "COLONEL YAKINIKU",
+            "harga": "35000",
+            "gambar": "colonel-yakiniku.png"
+        },
+        {
+            "kategori": "BURGER",
+            "name": "FISH FILLET COMBO",
+            "harga": "60000",
+            "gambar": "fish-fillet-combo.png"
+        },
+        {
+            "kategori": "BREAKFAST",
+            "name": "ORIENTAL BENTO",
+            "harga": "20000",
+            "gambar": "oriental-bento.png"
+        },
+        {
+            "kategori": "BREAKFAST",
+            "name": "TWISTY",
+            "harga": "15000",
+            "gambar": "twisty.png"
+        },
+        {
+            "kategori": "BURGER",
+            "name": "ZUPER KRUNCH",
+            "harga": "30000",
+            "gambar": "zuper-krunch.png"
+        }
+    ]
+}
